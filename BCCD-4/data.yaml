@@ -1,0 +1,8 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+train: c:\Users\evgen\Desktop\230416_yolo/BCCD-4/train/images
+val: c:\Users\evgen\Desktop\230416_yolo/BCCD-4/valid/images
+test: c:\Users\evgen\Desktop\230416_yolo/BCCD-4/test/images
